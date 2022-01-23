@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phas-save-editor/static/css/main.073c9b0a.css",
+    "main.js": "/phas-save-editor/static/js/main.dd96a87a.js",
+    "index.html": "/phas-save-editor/index.html",
+    "main.073c9b0a.css.map": "/phas-save-editor/static/css/main.073c9b0a.css.map",
+    "main.dd96a87a.js.map": "/phas-save-editor/static/js/main.dd96a87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd96a87a.js"
+  ]
+}
