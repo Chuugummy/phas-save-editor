@@ -198,7 +198,7 @@ function App() {
               marginTop={8}
               onClick={() => {
                 const xhr = new XMLHttpRequest();
-                xhr.open("GET", "/saveData.txt", true);
+                xhr.open("GET", "saveData.txt", true);
                 xhr.responseType = "blob";
 
                 xhr.onload = (e) => {
